@@ -9,4 +9,5 @@
  - In this model we have seen some irregulaties and tried for better method.
  - so,time series analysis is implemented with Moist3.py.
  ### Prior steps:
- - 
+ - Make sure that all the downloaded files saved in same folder.
+ - upload all files that are in folder and run in google colab.
