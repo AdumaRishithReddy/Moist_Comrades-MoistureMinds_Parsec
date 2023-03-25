@@ -11,6 +11,7 @@
  - So,time series analysis is implemented with Moist4.py and Moist3.py(trial).
  - Our models for Moist4.py and Moist3.py are saved in "new_model.h5" and "my_model.h5" to avoid repetition of training steps to reduce time and computing needs.
  - Our report is in the pdf "MOISTURE MINDS REPORT.pdf", which contains our thought process and results related to our models.
+ - We used another file "Moist_test.ipynb" to predict values for the upcoming months with current data.
  ### Prior steps:
  - Make sure that all the downloaded files saved in same folder.
  - Upload all files that are in folder and run in google colab.
