@@ -15,4 +15,10 @@
  ### Prior steps:
  - Make sure that all the downloaded files saved in same folder.
  - Upload all files that are in folder and run in google colab.
- 
+ ### Contributors
+* Aduma Rishith Reddy
+* Suyash Gaurav
+* Madduri Sivamohan
+* Mohd Junaiduddin
+* Akella Vyaghra Satya Sreenivasu
+* Derangula Mahesh
